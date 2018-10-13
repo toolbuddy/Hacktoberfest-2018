@@ -6,7 +6,7 @@
 
 ## Education
 
-* Bachelor of Computer Science, National Cheng Kung University; `Sep. 2016 -`
+* Studying in Computer Science, National Cheng Kung University;
 
 ---
 
