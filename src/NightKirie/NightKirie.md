@@ -1,5 +1,4 @@
 # NightKirie
-![Imgur](https://i.imgur.com/WtkynCw.jpg)
 
 ---
 ## Short Intro
